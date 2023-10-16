@@ -1,10 +1,16 @@
-# Ball-movement
-In this Project,the ball move between two fixed positions on the x-axis and y-axis on the page now have added edge detection and the ball can bounce between two specific points .
+# SIMULATION BALL MOVEMENT
 
-Steps to Run the Project
-Step 1:Drag the index file into the browser.
+## Description:
 
-Step 2:Refresh the page to see code changes in action.
+This HTML page displays a continuous bouncing red ball animation within a rectangular area, controlled by JavaScript using the setInterval function with a 500-millisecond interval.
 
-Future improvement
-In future,this project is enhanced by adding and creating more animation and styles.
+### How to run the code:
+
+Step 1: Save the HTML file with a .html extension.
+
+Step 2: Install the Live Server extension in Visual Studio Code, then click the "Go Live" button at the bottom right corner of the VSCode window to open a new browser window displaying the ball-moving animation.
+
+### Future improvement:
+
+consider adding user interaction features like mouse or keyboard control to change the ball's direction or speed, or adding obstacles or targets for the ball to interact with, creating a more engaging and interactive animation.
+
